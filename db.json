@@ -1,0 +1,60 @@
+{
+  "konyvek": [
+    {
+      "id": 1,
+      "nev": "Rejtő Jenő",
+      "cim": "Az elveszett cirkáló",
+      "ar": "4500",
+      "kategoria": "regény"
+    },
+    {
+      "id": 2,
+      "nev": "Új",
+      "cim": "Felkelő nap",
+      "ar": "4500",
+      "kategoria": "regény"
+    },
+    {
+      "id": 3,
+      "nev": "Joseph Heller",
+      "cim": "A 22-es csapdája",
+      "ar": "3900",
+      "kategoria": "vers"
+    },
+    {
+      "id": 4,
+      "nev": "Norman Mailer",
+      "cim": "Meztelenek és holtak",
+      "ar": "2100",
+      "kategoria": "vers"
+    },
+    {
+      "id": 5,
+      "nev": "Irwin Shaw",
+      "cim": "Oroszlánkölykök",
+      "ar": "800",
+      "kategoria": "vers"
+    },
+    {
+      "id": 6,
+      "nev": "Pierre Boulle",
+      "cim": "Híd a Kwai folyón",
+      "ar": "6800",
+      "kategoria": "vers"
+    },
+    {
+      "nev": "Robert Merle",
+      "cim": "Két nap az élet",
+      "ar": "3500",
+      "kategoria": "regény",
+      "id": 9
+    }
+  ],
+  "szerzo": [
+    {
+      "id": 1,
+      "nev": "Lackfi János",
+      "szulev": "1950"
+    }
+  ]
+}
